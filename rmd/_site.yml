@@ -1,0 +1,24 @@
+name: "Monterey Bay Infographics"
+output_dir: "../docs"
+lib_dir: libs
+navbar:
+  title: "Monterey Bay Infographics"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "kelp-forest"
+      href: kelp-forest.html
+    - text: "pelagic"
+      href: pelagic.html
+  right:
+    - icon: fa-info-circle fa-lg
+      href: "README.html"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      in_header: _header.html
+      after_body: _footer.html
+    css: styles.css
+exclude: ["prep.Rmd"]
