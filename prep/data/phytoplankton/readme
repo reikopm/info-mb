@@ -1,6 +1,14 @@
-Epifluorescence micropscopy analysis from the Monterey Bay National Marine Sanctuary. 
-Biomass 
+Epifluorescence micropscopy analysis from the Monterey Bay National Marine Sanctuary.
+
+Biomass
+  efm_biomass_mb_by_year.csv
 Pennate diatoms
+  efm_diatoms_mb_by_year
 Autotrophic dinoflagellates
+  efm_dinos_mb_by_year.csv
 Taxonomic structure by season
+  efm_taxa_structure_means.csv
+  
+ Units are mg Carbon m-3
+ 
 This data is provided by MBARI, Francisco Chavez.
