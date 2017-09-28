@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 svg,svg_id,label,status_text,status_color,modal_text
 pelagic.svg,phytoplankton,Phytoplankton (trophic group),,#2b2b2b,prep/plot_caption/phytoplankton.Rmd
 pelagic.svg,whales,Whales,,#2b2b2b,
@@ -11,3 +12,18 @@ pelagic.svg,seabirds,Seabirds,,#2b2b2b,
 pelagic.svg,squid,Squid,,#2b2b2b,
 pelagic.svg,midwater-larval-fish,Midwater Larval Fish,,#2b2b2b,
 pelagic.svg,forage-inverts,Forage Invertebrates,,#2b2b2b,
+=======
+svg,svg_id,label,status_text,status_color,modal_text
+pelagic.svg,phytoplankton,Phytoplankton (trophic group),,#2b2b2b,prep/plot_caption/phytoplankton.Rmd
+pelagic.svg,whales,Whales,,#2b2b2b,
+pelagic.svg,forage-fish,Forage Fish,,#2b2b2b,
+kelp-forest.svg,otters,Sea Otters,,#2b2b2b,
+pelagic.svg,pinnipeds,Pinnipeds,,,
+pelagic.svg,leatherbacks,Leatherback Turtles,,#2b2b2b,
+pelagic.svg,salmon,Salmon,,#2b2b2b,
+pelagic.svg,phytoplankton,Phytoplankton,,#2b2b2b,
+pelagic.svg,seabirds,Seabirds,,#2b2b2b,
+pelagic.svg,squid,Squid,,#2b2b2b,
+pelagic.svg,midwater-larval-fish,Midwater Larval Fish,,#2b2b2b,
+pelagic.svg,forage-inverts,Forage Invertebrates,,#2b2b2b,
+>>>>>>> 2d4ca017c35cff8faf35258a7aa0246540203b52
